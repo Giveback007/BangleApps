@@ -1,0 +1,16 @@
+{
+  "id": "media-controls",
+  "name": "Media Controls",
+  "shortName": "",
+  "version": "0.1",
+  "description": "",
+  "icon": "app.png",
+  "tags": "",
+  "dependencies": {"messages":"module"},
+  "supports": ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+  ],
+  "data": [
+  ]
+}
